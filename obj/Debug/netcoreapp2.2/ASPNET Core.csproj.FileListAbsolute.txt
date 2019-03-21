@@ -1,0 +1,30 @@
+D:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.deps.json
+D:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.runtimeconfig.json
+D:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.runtimeconfig.dev.json
+d:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.dll
+d:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.pdb
+D:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.Views.dll
+d:\Dropbox\platzi\NET CORE\ASPNET Core\bin\Debug\netcoreapp2.2\ASPNET Core.Views.pdb
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.csprojAssemblyReference.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.csproj.CoreCompileInputs.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.RazorAssemblyInfo.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.RazorAssemblyInfo.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.AssemblyInfoInputs.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.AssemblyInfo.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.TagHelpers.input.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.TagHelpers.output.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.RazorCoreGenerate.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.RazorTargetAssemblyInfo.cache
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.RazorTargetAssemblyInfo.cs
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.Views.pdb
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.dll
+d:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.pdb
+D:\Dropbox\platzi\NET CORE\ASPNET Core\obj\Debug\netcoreapp2.2\ASPNET Core.csproj.CopyComplete
